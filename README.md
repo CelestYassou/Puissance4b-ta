@@ -1,1 +1,1 @@
-# Puissance4b-ta
+Ceci est un code html pour une Puissance 4 (version béta car la version définitive n'est pas encore posté!). L'utilisation et autorisé cependant tous les droits sont réservé sont créateur CelestYassou ! Merci pour votre compréhension !
